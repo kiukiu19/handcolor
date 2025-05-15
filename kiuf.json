@@ -3,7 +3,7 @@
         {
         "web": "https://www.google.com/",
         "version": "1.0.0",
-        "enable": true
+        "enable": false
       }
     ]
 }
