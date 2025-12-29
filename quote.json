@@ -1,9 +1,9 @@
 {
     "data" :[
         {
-        "web": "https://www.google.com/",
+        "web": "https://www.odin678.my/",
         "version": "1.0.0",
-        "enable": false
+        "enable": true
       }
     ]
 }
