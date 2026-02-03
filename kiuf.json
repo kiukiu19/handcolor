@@ -1,7 +1,7 @@
 {
     "data" :[
         {
-        "web": "https://luck8.c1play.com",
+        "web": "https://luck8.c1play.com?isApp=true",
         "version": "1.1.0",
         "enable": true
       }
